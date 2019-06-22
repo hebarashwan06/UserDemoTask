@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.DataAccess\bin\Debug\netstandard2.0\UserDemo.DataAccess.deps.json
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.DataAccess\bin\Debug\netstandard2.0\UserDemo.DataAccess.dll
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.DataAccess\bin\Debug\netstandard2.0\UserDemo.DataAccess.pdb
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.DataAccess\bin\Debug\netstandard2.0\UserDemo.DataMapping.dll
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.DataAccess\bin\Debug\netstandard2.0\UserDemo.DataMapping.pdb
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.DataAccess\obj\Debug\netstandard2.0\UserDemo.DataAccess.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.DataAccess\obj\Debug\netstandard2.0\UserDemo.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.DataAccess\obj\Debug\netstandard2.0\UserDemo.DataAccess.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.DataAccess\obj\Debug\netstandard2.0\UserDemo.DataAccess.AssemblyInfo.cs
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.DataAccess\obj\Debug\netstandard2.0\UserDemo.DataAccess.csproj.CopyComplete
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.DataAccess\obj\Debug\netstandard2.0\UserDemo.DataAccess.dll
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.DataAccess\obj\Debug\netstandard2.0\UserDemo.DataAccess.pdb

@@ -1,0 +1,26 @@
+<h2>Users List</h2>
+<hr>
+<p>
+  <a [routerLink]="['/User/Create']" class="btn btn-primary">New User</a>
+</p>
+<table class="table">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>IsActive</th>
+      <th></th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr *ngFor="let user of allUsers">
+      <td>{{user.Name}}</td>
+      <td>{{user.IsActive}}</td>
+      <td>
+        <button (click)="updateUser(user.ID)" style="margin-left: 20px;" class="btn btn-info"> Edit</button>
+        <button (click)="deleteUser(user.ID)" class="btn btn-danger"> Delete</button>
+      </td>
+    </tr>
+  </tbody>
+  
+</table>

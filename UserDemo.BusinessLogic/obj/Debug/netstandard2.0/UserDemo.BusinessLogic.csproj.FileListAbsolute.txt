@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.BusinessLogic\bin\Debug\netstandard2.0\UserDemo.BusinessLogic.deps.json
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.BusinessLogic\bin\Debug\netstandard2.0\UserDemo.BusinessLogic.dll
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.BusinessLogic\bin\Debug\netstandard2.0\UserDemo.BusinessLogic.pdb
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.BusinessLogic\bin\Debug\netstandard2.0\UserDemo.DataAccess.dll
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.BusinessLogic\bin\Debug\netstandard2.0\UserDemo.DataMapping.dll
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.BusinessLogic\bin\Debug\netstandard2.0\UserDemo.DataAccess.pdb
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.BusinessLogic\bin\Debug\netstandard2.0\UserDemo.DataMapping.pdb
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.BusinessLogic\obj\Debug\netstandard2.0\UserDemo.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.BusinessLogic\obj\Debug\netstandard2.0\UserDemo.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.BusinessLogic\obj\Debug\netstandard2.0\UserDemo.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.BusinessLogic\obj\Debug\netstandard2.0\UserDemo.BusinessLogic.AssemblyInfo.cs
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.BusinessLogic\obj\Debug\netstandard2.0\UserDemo.BusinessLogic.csproj.CopyComplete
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.BusinessLogic\obj\Debug\netstandard2.0\UserDemo.BusinessLogic.dll
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.BusinessLogic\obj\Debug\netstandard2.0\UserDemo.BusinessLogic.pdb

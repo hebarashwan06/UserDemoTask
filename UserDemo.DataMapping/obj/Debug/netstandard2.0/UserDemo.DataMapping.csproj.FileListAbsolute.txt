@@ -1,0 +1,9 @@
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.DataMapping\bin\Debug\netstandard2.0\UserDemo.DataMapping.deps.json
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.DataMapping\bin\Debug\netstandard2.0\UserDemo.DataMapping.dll
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.DataMapping\bin\Debug\netstandard2.0\UserDemo.DataMapping.pdb
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.DataMapping\obj\Debug\netstandard2.0\UserDemo.DataMapping.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.DataMapping\obj\Debug\netstandard2.0\UserDemo.DataMapping.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.DataMapping\obj\Debug\netstandard2.0\UserDemo.DataMapping.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.DataMapping\obj\Debug\netstandard2.0\UserDemo.DataMapping.AssemblyInfo.cs
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.DataMapping\obj\Debug\netstandard2.0\UserDemo.DataMapping.dll
+C:\Users\pc\source\repos\UserCRUDDemo\UserDemo.DataMapping\obj\Debug\netstandard2.0\UserDemo.DataMapping.pdb
